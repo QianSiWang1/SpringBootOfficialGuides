@@ -14,6 +14,7 @@
     <modules>
         <module>BuildingaRestfulWebService</module>
         <module>SchedulingTasks</module>
+        <module>ConsumingaRestfulWebService</module>
     </modules>
 
     <properties>
