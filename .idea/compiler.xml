@@ -9,6 +9,7 @@
         <module name="BuildingaRestfulWebService" />
         <module name="SchedulingTasks" />
         <module name="ConsumingaRestfulWebService" />
+        <module name="JDBCWithSpring" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

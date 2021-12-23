@@ -15,6 +15,7 @@
         <module>BuildingaRestfulWebService</module>
         <module>SchedulingTasks</module>
         <module>ConsumingaRestfulWebService</module>
+        <module>JDBCWithSpring</module>
     </modules>
 
     <properties>
